@@ -3,7 +3,7 @@ Este projeto é baseado em um curso da Algaworks. A Algafood API é uma API REST
 
 
 ### Módulos de estudos: 
-- [ ] Spring e Injeção de Depêndencias 
+- [ ] Spring e Injeção de Depêndencias
 - [ ] Introdução ao JPA e Hibernate 
 - [ ] Rest com Spring
 - [ ] Spring Data JPA
