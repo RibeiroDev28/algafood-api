@@ -32,5 +32,6 @@ Este projeto é baseado em um curso da Algaworks. A Algafood API é uma API REST
 - [ ] Spring Boot 3
 
 ### Modelo de domínio - Diagrama de classes do projeto
-![imagem com diagrama de classe do projeto](https://github.com/matheusribeiro-dev/algafood-api/tree/master/diagrama/diagrama-de-classes-de-dominio.jpg)
+![diagrama-de-classes-de-dominio](https://user-images.githubusercontent.com/122272283/213442821-20f595ed-0559-4c77-b296-38f005422eb3.jpg)
+
 
