@@ -35,3 +35,6 @@ Este projeto é baseado em um curso da Algaworks. A Algafood API é uma API REST
 ![diagrama-de-classes-de-dominio](https://user-images.githubusercontent.com/122272283/213442821-20f595ed-0559-4c77-b296-38f005422eb3.jpg)
 
 
+### OBS - importante
+Por questões pessoais financeiras... as aulas e docker e implatação na nuvem foram somente assistidas!!!
+
